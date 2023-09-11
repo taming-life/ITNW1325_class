@@ -1,9 +1,24 @@
-<mxfile host="app.diagrams.net" modified="2023-09-11T22:37:13.375Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" version="21.7.4" etag="XzC_7a52Y_qluQ8JU5bW" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-11T22:54:08.085Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="t-ytg2SATG9qiX8DE-lY" version="21.7.4" type="github">
   <diagram name="Page-1" id="J-reg7bOBgS-nL2o46BV">
-    <mxGraphModel>
+    <mxGraphModel dx="1804" dy="648" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="cWWOJXq3wTgW33ggFWEq-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.98;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.038;entryY=0.377;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="cWWOJXq3wTgW33ggFWEq-1" target="cWWOJXq3wTgW33ggFWEq-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cWWOJXq3wTgW33ggFWEq-1" value="Internet" style="shape=mxgraph.cisco.storage.cloud;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=middle;verticalAlign=middle;align=center;outlineConnect=0;labelPosition=center;" vertex="1" parent="1">
+          <mxGeometry x="-60" y="130" width="186" height="106" as="geometry" />
+        </mxCell>
+        <mxCell id="cWWOJXq3wTgW33ggFWEq-2" value="" style="shape=mxgraph.cisco.routers.router;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="370" y="240" width="78" height="53" as="geometry" />
+        </mxCell>
+        <mxCell id="cWWOJXq3wTgW33ggFWEq-5" value="" style="shape=mxgraph.cisco.switches.workgroup_switch;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="150" y="380" width="101" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="cWWOJXq3wTgW33ggFWEq-6" value="Ullman Enterprise" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" width="200" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
